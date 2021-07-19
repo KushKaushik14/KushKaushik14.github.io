@@ -1,0 +1,166 @@
+body {
+  background-color: white;
+}
+
+h3 { 
+    font: 700 italic 30px/20px Georgia,serif;
+    text-align: center;
+    margin: 35px;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+}
+
+h4 {
+  text-align:center;
+}
+
+h1 {
+    margin: 0px;
+    font: 700 italic 30px/50px Georgia,serif;
+    padding: 30px 0px 30px 160px;
+}
+
+.desc {
+  font: 700 italic 20px/40px Georgia,serif;
+  text-align: center;
+  margin: 0px;
+}
+
+.lang {
+  font: 700 italic 18px/50px Georgia,serif;
+  text-align: center;
+  margin: 0px;
+}
+
+.images {
+  border: 7px solid grey;
+  width: 300px;
+  height: 150px;
+  margin: 40px 40px 40px 150px;
+  float: left;
+}
+
+.text {
+  color: black;
+  margin: 70px 130px 10px 10px;
+}
+
+.footer {
+  text-align: center;
+}
+
+.links {
+  color: black;
+  text-align: justify;
+}
+
+.grey {
+  color: grey;
+  text-align: center;
+}
+
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.linkedin {   
+  color: black;  
+  width: 25px;
+  text-decoration: none;
+  margin: 10px;
+}  
+
+.linkedin:hover {   
+  opacity: 0.7
+}
+
+.github {   
+  color: black;  
+  width: 26px;
+  text-decoration: none;
+  margin: 10px;
+}  
+
+.github:hover{
+  opacity: 0.7
+}
+
+.spotify {   
+  color: black;  
+  width: 25px;
+  text-decoration: none;
+  margin: 7px;
+}  
+
+.spotify:hover{
+  opacity: 0.7
+}
+
+.header{  
+  color: black;  
+  width: 26px;
+  text-decoration: none;
+  margin: 25px;
+  font-style: italic;
+  font-family: Georgia,serif;
+}  
+
+.header:hover{
+  opacity: 0.7
+}
+
+.header2{  
+  color: #333333;  
+  width: 26px;
+  text-decoration: none;
+  margin: 1px;
+}  
+
+.header2:hover{
+  opacity: 0.7
+}
+
+.clock {
+  border-radius: 0px;
+  width: 500px;
+  height: 300px;
+  margin: 0px;
+  border: 10px solid grey;
+}
+
+.top {
+    font: 700 italic 20px/20px Georgia,serif;
+    color: black;
+    text-align: left;
+    margin: 0px 30px 0px 160px;
+}
+
+.top:hover {   
+  opacity: 0.7;
+}
+
+.background {
+    border-top: 1px solid #3F3F3F;
+    border-bottom: 1px solid #3F3F3F;
+    background: url(blue.jpg)fixed #000;
+    margin-bottom: 0px;
+}
+
+.links {   
+  color: black;
+  text-align: center;  
+}  
+
+.links:hover {
+  opacity: 0.7;
+  color: black;
+  text-align: center;
+}
